@@ -1,4 +1,4 @@
-# php sederhana membuat segitiga menggunakan php
+# kode php sederhana membuat segitiga
 hasil :
 
 ```bash
