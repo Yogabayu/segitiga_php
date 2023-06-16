@@ -1,1 +1,7 @@
-# segitiga_php
+# php sederhana membuat segitiga menggunakan php
+# hasil :
+*
+**
+***
+****
+*****
