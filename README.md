@@ -1,7 +1,10 @@
 # php sederhana membuat segitiga menggunakan php
-# hasil :
+hasil :
+
+```bash
 *
 **
 ***
 ****
 *****
+```
